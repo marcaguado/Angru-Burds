@@ -1,0 +1,5 @@
+	CREDITS
+Qt https://www.qt.io/ (Use of it under the LGPL 3 license, check LGPL3License.txt for more information)
+Box2D https://box2d.org/
+Mario Kart DS Font (recreated by David and with respective rights to Nintendo) https://www.dafont.com/mario-kart-ds.font
+Pixelmania Font (made by Imagex) https://www.dafont.com/pixelmania.font

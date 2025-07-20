@@ -1,0 +1,23 @@
+bird blue -15 -5 0
+bird normal -17 -5 0
+bird normal -19 -5 0
+
+
+enemy normal 18 -1 0
+enemy normal 24 4 0
+enemy normal 26 -5.5 0
+enemy normal 28 4 0
+enemy normal 33 -1 0
+
+object typeA1 14 0 0
+object typeA3 14 -5.5 80
+object typeA3 20 -5.5 80
+object typeA2 17 -2.5 0
+object typeB2 22.5 -3.5 80
+object typeB2 28.5 -3.5 80
+object typeB2 26 2 0
+object typeA3 30 -5.5 80
+object typeA3 36 -5.5 80
+object typeA2 33 -2.5 0
+object typeA1 36 0 0
+
